@@ -36,8 +36,11 @@
    Processing has inbuilt libraries for kinect, just download it from internet. Required libraries are:-
     
    . Kinect V2 for Processing - Kinect v2 implementation using the Kinect Windows SDK 
+   
    . Kinect4WinSDK - A simple wrapper for the Microsoft Kinect for Windows SDK version 1.8
+   
    . Sound - Sound library based on MethCla for Processing
+   
    These libraries have inbuilt code examples for detecting body, body depth, body joint coordinates, colour image.
     
     
