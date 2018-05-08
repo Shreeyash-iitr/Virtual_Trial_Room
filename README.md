@@ -42,6 +42,8 @@
     
     
    About 
+   
+   
    	Kinect uses Infrared sensors, microphone and video camera to draw exact coordinate (x,y,z) of joints of our body             which is the most helpful feature. The optimum range for detection of full body joint is 2.5 to 3 meters. We can             recognise voice, gesture, hand state etc. 	Processing Software was developed by MIT, just for the purpose of               animation, game designing, effect designing etc. It uses basic java with inbuilt classes, methods and function for           easy sketching and designing. The basic layout contain two functions i.e. setup (run once) and draw (loop).
      
      
