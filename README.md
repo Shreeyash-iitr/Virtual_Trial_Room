@@ -1,20 +1,20 @@
 # Virtual_Trial_Room
 
-    Virtual trial room
-    Project Done in shrishti 2018
+   Virtual trial room
+   Project Done in shrishti 2018
+   
+   Abstract
     
-    Abstract
+   Virtual trial room is a simple human machine interface. Actually it's a coded software ehich gives you the feel of           virtual world. The basic idea for designing virtual trial room was to give user a interface to virtually try the dresses     of his/her choice. I have used Xbox Kinect as my sensor to detect body movements and gestures. I used processing for         frontend interface. 
     
-    Virtual trial room is a simple human machine interface. Actually it's a coded software ehich gives you the feel of           virtual world. The basic idea for designing virtual trial room was to give user a interface to virtually try the dresses     of his/her choice. I have used Xbox Kinect as my sensor to detect body movements and gestures. I used processing for         frontend interface. 
+   Team members 
+   > Shreeyash Geda
+   > Omkar
+   > Yashutosh
     
-    Team members 
-    > Shreeyash Geda
-    > Omkar
-    > Yashutosh
-    
-    Mentors
-    > Shivam mallu
-    > Bhavya Giri Goswami
+   Mentors
+   > Shivam mallu
+   > Bhavya Giri Goswami
     
     Setup
     
