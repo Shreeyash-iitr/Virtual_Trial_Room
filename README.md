@@ -1,7 +1,7 @@
 # Virtual_Trial_Room
 
-   Virtual trial room
-   Project Done in shrishti 2018
+  <h3> Virtual trial room
+   Project Done in shrishti 2018 </h3>
    
    Abstract
     
