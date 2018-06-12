@@ -8,7 +8,7 @@
    Virtual trial room is a simple human machine interface. Actually it's a coded software ehich gives you the feel of           virtual world. The basic idea for designing virtual trial room was to give user a interface to virtually try the dresses     of his/her choice. I have used Xbox Kinect as my sensor to detect body movements and gestures. I used processing for         frontend interface. 
     
    <h2>Team members </h2>
-   > Shreeyash Geda,</br>
+   > <a href="https://www.facebook.com/shreeyash.geda.1">Shreeyash Geda</a>,</br>
    > Omkar,</br>
    > Yashutosh,</br>
    > Dhruv
