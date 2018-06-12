@@ -8,13 +8,13 @@
    Virtual trial room is a simple human machine interface. Actually it's a coded software ehich gives you the feel of           virtual world. The basic idea for designing virtual trial room was to give user a interface to virtually try the dresses     of his/her choice. I have used Xbox Kinect as my sensor to detect body movements and gestures. I used processing for         frontend interface. 
     
    <h2>Team members </h2>
-   > Shreeyash Geda,
-   > Omkar,
-   > Yashutosh,
+   > Shreeyash Geda,</br>
+   > Omkar,</br>
+   > Yashutosh,</br>
    > Dhruv
     
    <h2>Mentors</h2>
-   > Shivam mallu,
+   > Shivam mallu,</br>
    > Bhavya Giri Goswami.
     
   <h2> Setup</h2>
@@ -28,10 +28,8 @@
    Indirectly saying we have just hacked Xbox Kinect (which can only be used to play games) for various human activities.    
     
   <h2> Requirements</h2>
-   1. Xbox Kinect (Microsoft Product)</br>
-   ![kinect](https://user-images.githubusercontent.com/39067766/41276591-4a72e23e-6e42-11e8-8608-052053720ff5.jpg)
-
-   2. Laptop with high graphic quality(at least 4GB graphic card).
+   1. Xbox Kinect (Microsoft Product)</br
+   2. Laptop with high graphic quality(at least 4GB graphic card).</br>
    3. Processing software(Open source software)
     
  <h2>  Libraries Used</h2>
