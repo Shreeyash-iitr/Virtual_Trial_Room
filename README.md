@@ -29,7 +29,6 @@
     
   <h2> Requirements</h2>
    1. Xbox Kinect (Microsoft Product)
-      ![kinect](https://www.windowscentral.com/kinect-windows-v2-sensor-sales-end-developers-can-use-xbox-one-version)
    2. Laptop with high graphic quality(at least 4GB graphic card).
    3. Processing software(Open source software)
     
