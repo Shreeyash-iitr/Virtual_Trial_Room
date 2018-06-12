@@ -7,15 +7,7 @@
     
    Virtual trial room is a simple human machine interface. Actually it's a coded software ehich gives you the feel of           virtual world. The basic idea for designing virtual trial room was to give user a interface to virtually try the dresses     of his/her choice. I have used Xbox Kinect as my sensor to detect body movements and gestures. I used processing for         frontend interface. 
     
-   <h2>Team members </h2>
-   > <a href="https://www.facebook.com/shreeyash.geda.1">Shreeyash Geda</a>,</br>
-   > Omkar,</br>
-   > Yashutosh,</br>
-   > Dhruv
-    
-   <h2>Mentors</h2>
-   > Shivam mallu,</br>
-   > Bhavya Giri Goswami.
+ 
     
   <h2> Setup</h2>
     
@@ -54,15 +46,32 @@
    <h2>Code</h2>
    
    https://github.com/Shreeyash-iitr/Virtual_Trial_Room/blob/master/Project.pde   
+   <h3> Code Explaination</h3>
+   Import all libraries at the begining of code.
+   In void setup(), define varilbles for different dresses.Main body tracking part comes under void draw().
+   There are three pages- starting page, menu page and finally execution page for which switch()-cases have been used.
+   Also write separate functions for executing common things like sound files.
+   
+   
 
-
+<h2> Future improvements </h2>
+    This projects only have 2D dresses which is a major drawback. An approach should be made to make 3D virtual trial room.
     
     
     
     
     
+   <h2>Team members </h2>
+   > <a href="https://www.facebook.com/shreeyash.geda.1">Shreeyash Geda</a>,</br>
+   > Omkar,</br>
+   > Yashutosh,</br>
+   > Dhruv
     
+   <h2>Mentors</h2>
+   > Shivam mallu,</br>
+   > Bhavya Giri Goswami.
     
+   
     
     
 
