@@ -29,7 +29,7 @@
     
   <h2> Requirements</h2>
    1. Xbox Kinect (Microsoft Product)</br><img src='images/kinect.jpg' width = 200>
-   2. Laptop with high graphic quality(at least 4GB graphic card)</br>
+   2. Laptop with high graphic quality(at least 4GB graphic card)</br><img src='images/processing.png' width = 200>
    3. Processing software(Open source software)
     
  <h2>  Libraries Used</h2>
