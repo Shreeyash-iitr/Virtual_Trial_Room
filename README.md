@@ -56,7 +56,8 @@
 
 <h2> Future improvements </h2>
     This projects only have 2D dresses which is a major drawback. An approach should be made to make 3D virtual trial room.
-    
+    <h2> Video lectures </h2>
+    https://www.youtube.com/watch?v=QmVNgdapJJM&list=PLRqwX-V7Uu6ZMlWHdcy8hAGDy6IaoxUKf
     
     
     
