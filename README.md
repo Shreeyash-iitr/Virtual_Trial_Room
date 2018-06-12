@@ -28,8 +28,8 @@
    Indirectly saying we have just hacked Xbox Kinect (which can only be used to play games) for various human activities.    
     
   <h2> Requirements</h2>
-   1. Xbox Kinect (Microsoft Product)</br
-   2. Laptop with high graphic quality(at least 4GB graphic card).</br>
+   1. Xbox Kinect (Microsoft Product)</br>
+   2. Laptop with high graphic quality(at least 4GB graphic card)</br>
    3. Processing software(Open source software)
     
  <h2>  Libraries Used</h2>
