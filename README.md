@@ -29,6 +29,8 @@
     
   <h2> Requirements</h2>
    1. Xbox Kinect (Microsoft Product)</br>
+   ![kinect](https://user-images.githubusercontent.com/39067766/41276591-4a72e23e-6e42-11e8-8608-052053720ff5.jpg)
+
    2. Laptop with high graphic quality(at least 4GB graphic card).
    3. Processing software(Open source software)
     
