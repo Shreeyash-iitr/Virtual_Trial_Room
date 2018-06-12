@@ -66,7 +66,8 @@
    > <a href="https://www.facebook.com/shreeyash.geda.1">Shreeyash Geda</a>,</br>
    > Omkar,</br>
    > Yashutosh,</br>
-   > Dhruv
+   > Dhruv,</br>
+   > Mohit
     
    <h2>Mentors</h2>
    > <a href="https://github.com/Kakashi08">Shivam mallu</a>,</br>
