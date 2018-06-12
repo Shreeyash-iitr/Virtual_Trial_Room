@@ -68,8 +68,8 @@
    > Dhruv
     
    <h2>Mentors</h2>
-   > Shivam mallu,</br>
-   > Bhavya Giri Goswami.
+   > <a href="https://github.com/Kakashi08">Shivam mallu</a>,</br>
+   > <a href="https://www.facebook.com/bhavya.girigoswami">Bhavya Giri Goswami.</a>
     
    
     
