@@ -5,7 +5,7 @@
    <img src='images/secy.png' width = 400>
   <h2> Abstract</h2>
     
-   Virtual trial room is a simple human machine interface. Actually it's a coded software ehich gives you the feel of           virtual world. The basic idea for designing virtual trial room was to give user a interface to virtually try the dresses     of his/her choice. I have used Xbox Kinect as my sensor to detect body movements and gestures. I used processing for         frontend interface. 
+   Virtual trial room is a simple human machine interface. The basic idea for designing virtual trial room was to give user a interface to virtually try the dresses     of his/her choice. I have used Xbox Kinect as my sensor to detect body movements and gestures. I used processing for         frontend interface. 
     
  
     
