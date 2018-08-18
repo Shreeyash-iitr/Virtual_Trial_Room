@@ -49,7 +49,7 @@ https://www.youtube.com/watch?v=QmVNgdapJJM&list=PLRqwX-V7Uu6ZMlWHdcy8hAGDy6Iaox
 
 ## Made by
 
-> [Shreeyash Geda](https://www.facebook.com/shreeyash.geda.1),  
+> [Shreeyash Geda](https://www.facebook.com/shreeyash.geda.1) 
 
 
 ## Mentors
