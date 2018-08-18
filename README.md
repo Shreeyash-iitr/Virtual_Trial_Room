@@ -47,13 +47,10 @@ This projects only have 2D dresses which is a major drawback. An approach should
 
 https://www.youtube.com/watch?v=QmVNgdapJJM&list=PLRqwX-V7Uu6ZMlWHdcy8hAGDy6IaoxUKf
 
-## Team members
+## Made by
 
 > [Shreeyash Geda](https://www.facebook.com/shreeyash.geda.1),  
-> Omkar,  
-> Yashutosh,  
-> Dhruv,  
-> Mohit
+
 
 ## Mentors
 
